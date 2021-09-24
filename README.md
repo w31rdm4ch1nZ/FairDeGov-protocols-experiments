@@ -1,4 +1,4 @@
-# DecentralizedGovernance-resilient-by-design
+# FairDeGov - and its threat modeling resulting design
 **[BRAINSTORMING PHASE]** - Ideas for a simple DeGov design template for a "hypercryptoized" world. Heavily influenced by Vitalik Buterin and Jean-Philippe Vergne works.
 
 
